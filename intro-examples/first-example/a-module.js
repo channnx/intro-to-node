@@ -13,6 +13,6 @@ const ben = {
 };
 
 module.exports = {
-  mac,
-  ben,
+  mac: mac,
+  ben: ben,
 };
